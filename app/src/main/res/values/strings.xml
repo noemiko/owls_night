@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Noc sów</string>
+    <string name="full_name">nick</string>
+    <string name="email">email</string>
+    <string name="password">hasło</string>
+    <string name="register">Zarejestruj się</string>
+    <string name="login">Zaloguj się</string>
+    <string name="input_error_name">nick wymagany</string>
+    <string name="input_error_email">email wymagany</string>
+    <string name="input_error_password">hasło wymagane</string>
+    <string name="input_error_password_length">hasło powinno miec przynajmniej 6 znaków</string>
+    <string name="registration_success">Udana rejestracja</string>
+    <string name="input_error_email_invalid">wpisz poprawny e-mail</string>
+    <string name="back_to_registration">wróć do rejestracji</string>
+</resources>
