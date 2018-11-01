@@ -88,6 +88,8 @@ public class LoginActivity extends AppCompatActivity implements View.OnClickList
                         if (task.isSuccessful()) {
 
                             Toast.makeText(LoginActivity.this, "Zalogowałeś się", Toast.LENGTH_LONG).show();
+                            Intent intent = new Intent(LoginActivity.this, DashboardActivity.class);
+                            startActivity(intent);
 
                         } else {
                             Toast.makeText(LoginActivity.this, task.getException().getMessage(), Toast.LENGTH_LONG).show();
