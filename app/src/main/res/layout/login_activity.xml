@@ -19,7 +19,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:fontFamily="cursive"
-            android:text="Logowanie do sowiej aplikacji"
+            android:text="Noc sów"
             android:textAlignment="center"
             android:textColor="@color/colorText"
             android:textSize="@dimen/app_name_size" />
